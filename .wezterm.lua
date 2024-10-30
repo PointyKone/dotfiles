@@ -4,7 +4,7 @@ local config = {}
 config.default_prog = { 'powershell.exe', '-NoLogo' }
 
 config.color_scheme = 'Catppuccin Macchiato (Gogh)'
-config.window_background_opacity = 0.8
+config.window_background_opacity = 0.99
 
 config.font = wezterm.font 'JetBrains Mono'
 config.font_size = 12
