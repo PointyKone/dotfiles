@@ -1,4 +1,3 @@
-vim.g.mapleader = ","
 require("config.lazy")
 
 vim.wo.number = true
