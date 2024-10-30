@@ -8,7 +8,7 @@ config.window_background_opacity = 0.8
 
 config.font = wezterm.font 'JetBrains Mono'
 config.font_size = 12
-config.text_background_opacity = 0.8
+config.text_background_opacity = 0.9
 
 config.window_decorations = 'NONE | RESIZE'
 
