@@ -1,7 +1,7 @@
 local wezterm = require 'wezterm'
 local config = {}
 
-config.default_prog = { 'powershell.exe', '-NoLogo' }
+config.default_prog = { "C:/Program Files/Git/bin/bash.exe" }
 
 config.color_scheme = 'Catppuccin Macchiato (Gogh)'
 config.window_background_opacity = 0.99
